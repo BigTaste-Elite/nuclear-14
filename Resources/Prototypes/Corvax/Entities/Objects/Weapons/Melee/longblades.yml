@@ -78,7 +78,7 @@
       heavyDamageBaseModifier: 1
       heavyStaminaCost: 15
       maxTargets: 1
-      range: 2.2
+      range: 1.5
       angle: 0
       animation: WeaponArcThrust
       soundHit:
