@@ -93,6 +93,9 @@
       id: FishBomb
       weight: 2      # Взрывчатка
     - !type:EntSelector
+      id: MobLongLeggedCrab # Краб Босс
+      weight: 2
+    - !type:EntSelector
       id: FishExocoetidae
       weight: 1      # Пласталь (Очень редко)
     - !type:EntSelector
