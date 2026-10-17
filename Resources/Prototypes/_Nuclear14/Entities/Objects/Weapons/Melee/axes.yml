@@ -114,8 +114,8 @@
   - type: IncreaseDamageOnWield
     damage:
       types:
-        Blunt: 14
-        Slash: 14
+        Blunt: 14 # Forge-Change
+        Slash: 14 # Forge-Change
   - type: Sharp
   - type: StaticPrice
     price: 30
